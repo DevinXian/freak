@@ -8,6 +8,9 @@
         <a href="https://cloud.tencent.com/product/ssr" target="_blank" rel="noopener noreferrer">
           Serverless SSR
         </a>
+        <p>
+          I am your freak !
+        </p>
       </h2>
     </div>
   </div>
